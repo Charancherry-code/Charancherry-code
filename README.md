@@ -3,13 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charancherry-code" alt="charancherry-code" /></a> </p>
 
-- 🔭 I’m currently working on **Addovedi Tech Fest Website**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on **AI projects and Web3 apps**
-
-- 🤝 I’m looking for help with **3D web animations**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/banoth-charan/](https://www.linkedin.com/in/banoth-charan/)
 
