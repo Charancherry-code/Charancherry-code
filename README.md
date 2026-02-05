@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **charancherry1129@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MQ2JrKYDcYwITlyVjg0sPfg30mfMxuTk/view?usp=drivesdk](https://drive.google.com/file/d/1MQ2JrKYDcYwITlyVjg0sPfg30mfMxuTk/view?usp=drivesdk)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1MQ2JrKYDcYwITlyVjg0sPfg30mfMxuTk/view?usp=drivesdk](https://drive.google.com/file/d/1MQ2JrKYDcYwITlyVjg0sPfg30mfMxuTk/view?usp=drivesdk)](https://drive.google.com/file/d/1ST_yugYcVc4HlVjRdqut9ZX8BpReASEn/view?usp=drive_link)
 
 - ⚡ Fun fact **I think semicolons ; have feelings too.**
 
