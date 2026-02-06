@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramavathu Vamsi Nayak </h1>
+<h1 align="center">Hi 👋, I'm Banoth Charan </h1>
 <h3 align="center">A passionate tech enthusiast and AI explorer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charancherry-code" alt="charancherry-code" /></a> </p>
