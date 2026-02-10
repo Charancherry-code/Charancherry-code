@@ -26,6 +26,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charancherry-code&" alt="charancherry-code" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?charancherrycode=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-readme-stats.vercel.app/api?username=Charancherry-code)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
