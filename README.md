@@ -36,7 +36,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wxfdyoas59?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/banothCharan?theme=dark&font=baloo&ext=heatmap)
 
 
 
