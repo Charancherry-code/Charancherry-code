@@ -34,6 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charancherry-code&" alt="charancherry-code" /></p>
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/wxfdyoas59?theme=dark&font=baloo&ext=heatmap)
+
 
 
 
