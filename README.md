@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate tech enthusiast and AI explorer from India.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms **
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/banoth-charan/](https://www.linkedin.com/in/banoth-charan/)
 
