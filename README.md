@@ -27,8 +27,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
