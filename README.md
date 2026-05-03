@@ -52,7 +52,7 @@
 </p>
 
 
-## 📈 GitHub Activity & Contributions
+## 📈 GitHub Activity & Contributions:-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charancherry-code&" alt="charancherry-code" /></p>
 
