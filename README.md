@@ -49,8 +49,8 @@
   <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-<a href="https://anthropic.com"><img src="https://shields.io" height="40"/></a>
-  <a href="https://openai.com"><img src="https://shields.io" height="40"/></a>
+ <a href="https://anthropic.com"><img src="./claudecode-color.svg" width="40" alt="Claude Code"/></a>
+  <a href="https://openai.com"><img src="./codex%20color.svg" width="40" alt="OpenAI Codex"/></a>
 </p>
 
 
