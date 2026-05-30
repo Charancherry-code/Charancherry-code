@@ -62,7 +62,6 @@
 ## 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/banothCharan?theme=dark&font=baloo&ext=heatmap)
-..
 
 
 
