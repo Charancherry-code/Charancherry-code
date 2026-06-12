@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  I'm Banoth Charan</h1>
+<h1 align="center">Hi 👋  I'm Banoth Charan</h1>.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charancherry-code&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
