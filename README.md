@@ -5,6 +5,18 @@
 
 <h3 align="center">A passionate tech enthusiast and AI explorer from India.</h3>
 
+ 🌱 I’m currently learning **Data Structures and Algorithms..**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/banoth-charan/](https://www.linkedin.com/in/banoth-charan/)
+
+- 💬 Ask me about **Web development, AI integration, and Data Structures**
+
+- 📫 How to reach me **charancherry1129@gmail.com**
+
+- 📄 Know about my experiences https://drive.google.com/file/d/1_Xr6e_r8LOoTU-CT-vnZ75xhhkfeLqw3/view?usp=drivesdk
+
+- ⚡ Fun fact **I think semicolons ; have feelings too.**
+
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://twitter.com/charanbano29071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charanbano29071" height="30" width="40" /></a>
