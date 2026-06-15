@@ -30,54 +30,45 @@ A passionate tech enthusiast and AI builder from India, currently teaching model
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Languages -->
-  <img src="https://shields.io" alt="C++"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="TypeScript"/>
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-</p>
+  <a href="https://w3schools.com"><img src="https://githubusercontent.com" width="40" alt="C++"/></a>
+  <a href="https://mozilla.org"><img src="https://githubusercontent.com" width="40" alt="JavaScript"/></a>
+  <a href="https://typescriptlang.org"><img src="https://githubusercontent.com" width="40" alt="TypeScript"/></a>
+  <a href="https://python.org"><img src="https://githubusercontent.com" width="40" alt="Python"/></a>
+  <a href="https://w3.org"><img src="https://githubusercontent.com" width="40" alt="HTML5"/></a>
+  <a href="https://w3schools.com"><img src="https://githubusercontent.com" width="40" alt="CSS3"/></a>
 
-<p align="left">
-  <!-- Frameworks & Libraries -->
-  <img src="https://shields.io" alt="React"/>
-  <img src="https://shields.io" alt="Redux"/>
-  <img src="https://shields.io" alt="NextJS"/>
-  <img src="https://shields.io" alt="NodeJS"/>
-  <img src="https://shields.io" alt="Express"/>
-  <img src="https://shields.io" alt="TailwindCSS"/>
-  <img src="https://shields.io" alt="Bootstrap"/>
-</p>
+  <!-- Frameworks & Runtimes -->
+  <a href="https://reactjs.org"><img src="https://githubusercontent.com" width="40" alt="React"/></a>
+  <a href="https://js.org"><img src="https://githubusercontent.com" width="40" alt="Redux"/></a>
+  <a href="https://nextjs.org"><img src="https://githubusercontent.com" width="40" alt="NextJS"/></a>
+  <a href="https://nodejs.org"><img src="https://githubusercontent.com" width="40" alt="NodeJS"/></a>
+  <a href="https://expressjs.com"><img src="https://githubusercontent.com" width="40" alt="Express"/></a>
+  <a href="https://tailwindcss.com"><img src="https://vectorlogo.zone" width="40" alt="TailwindCSS"/></a>
+  <a href="https://getbootstrap.com"><img src="https://githubusercontent.com" width="40" alt="Bootstrap"/></a>
 
-<p align="left">
-  <!-- AI Infrastructure -->
-  <img src="https://shields.io" alt="OpenAI"/>
-  <img src="./claudecode-color.svg" width="40" alt="Claude Code"/>
-</p>
+  <!-- AI Models -->
+  <a href="https://openai.com"><img src="https://vectorlogo.zone" width="40" alt="OpenAI"/></a>
+  <a href="https://anthropic.com"><img src="./claudecode-color.svg" width="40" alt="Claude Code"/></a>
 
-<p align="left">
   <!-- Databases -->
-  <img src="https://shields.io" alt="MongoDB"/>
-  <img src="https://shields.io" alt="MySQL"/>
-  <img src="https://shields.io" alt="PostgreSQL"/>
-  <img src="https://shields.io" alt="Redis"/>
+  <a href="https://mongodb.com"><img src="https://githubusercontent.com" width="40" alt="MongoDB"/></a>
+  <a href="https://mysql.com"><img src="https://githubusercontent.com" width="40" alt="MySQL"/></a>
+  <a href="https://postgresql.org"><img src="https://githubusercontent.com" width="40" alt="PostgreSQL"/></a>
+  <a href="https://redis.io"><img src="https://githubusercontent.com" width="40" alt="Redis"/></a>
+
+  <!-- Infrastructure & Clouds -->
+  <a href="https://docker.com"><img src="https://githubusercontent.com" width="40" alt="Docker"/></a>
+  <a href="https://linux.org"><img src="https://githubusercontent.com" width="40" alt="Linux"/></a>
+  <a href="https://nginx.org"><img src="https://githubusercontent.com" width="40" alt="Nginx"/></a>
+  <a href="https://vercel.com"><img src="https://vectorlogo.zone" width="40" alt="Vercel"/></a>
+  <a href="https://railway.app"><img src="https://vectorlogo.zone" width="40" alt="Railway"/></a>
+  <a href="https://google.com"><img src="https://vectorlogo.zone" width="40" alt="Firebase"/></a>
+
+  <!-- Workflow Tools -->
+  <a href="https://git-scm.com"><img src="https://vectorlogo.zone" width="40" alt="Git"/></a>
+  <a href="https://postman.com"><img src="https://vectorlogo.zone" width="40" alt="Postman"/></a>
 </p>
 
-<p align="left">
-  <!-- Cloud & DevOps -->
-  <img src="https://shields.io" alt="Docker"/>
-  <img src="https://shields.io" alt="Linux"/>
-  <img src="https://shields.io" alt="Nginx"/>
-  <img src="https://shields.io" alt="Vercel"/>
-  <img src="https://shields.io" alt="Railway"/>
-  <img src="https://shields.io" alt="Firebase"/>
-</p>
-
-<p align="left">
-  <!-- Utilities -->
-  <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="Postman"/>
-</p>
 
 
 
