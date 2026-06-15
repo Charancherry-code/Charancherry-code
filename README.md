@@ -30,30 +30,48 @@ A passionate tech enthusiast and AI builder from India, currently teaching model
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
- <a href="https://anthropic.com"><img src="./claudecode-color.svg" width="40" alt="Claude Code"/></a>
- <a href="https://openai.com"><img src="./codex%20color.svg" width="40" alt="OpenAI Codex"/></a>
+  <!-- Frontend & Design -->
+  <a href="https://getbootstrap.com"><img src="https://githubusercontent.com" width="40" alt="Bootstrap"/></a>
+  <a href="https://w3.org"><img src="https://githubusercontent.com" width="40" alt="HTML5"/></a>
+  <a href="https://w3schools.com"><img src="https://githubusercontent.com" width="40" alt="CSS3"/></a>
+  <a href="https://tailwindcss.com"><img src="https://vectorlogo.zone" width="40" alt="TailwindCSS"/></a>
+
+  <!-- Languages -->
+  <a href="https://w3schools.com"><img src="https://githubusercontent.com" width="40" alt="C++"/></a>
+  <a href="https://mozilla.org"><img src="https://githubusercontent.com" width="40" alt="JavaScript"/></a>
+  <a href="https://typescriptlang.org"><img src="https://githubusercontent.com" width="40" alt="TypeScript"/></a>
+  <a href="https://python.org"><img src="https://githubusercontent.com" width="40" alt="Python"/></a>
+
+  <!-- Frameworks & Runtimes -->
+  <a href="https://reactjs.org"><img src="https://githubusercontent.com" width="40" alt="React"/></a>
+  <a href="https://js.org"><img src="https://githubusercontent.com" width="40" alt="Redux"/></a>
+  <a href="https://nextjs.org"><img src="https://worldvectorlogo.com" width="40" alt="NextJS"/></a>
+  <a href="https://nodejs.org"><img src="https://githubusercontent.com" width="40" alt="NodeJS"/></a>
+  <a href="https://expressjs.com"><img src="https://githubusercontent.com" width="40" alt="Express"/></a>
+
+  <!-- AI & Intelligence -->
+  <a href="https://anthropic.com"><img src="./claudecode-color.svg" width="40" alt="Claude Code"/></a>
+  <a href="https://openai.com"><img src="https://iconify.design" width="40" alt="OpenAI"/></a>
+
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/"><img src="https://githubusercontent.com" width="40" alt="MongoDB"/></a>
+  <a href="https://mysql.com"><img src="https://githubusercontent.com" width="40" alt="MySQL"/></a>
+  <a href="https://postgresql.org"><img src="https://githubusercontent.com" width="40" alt="PostgreSQL"/></a>
+  <a href="https://redis.io"><img src="https://githubusercontent.com" width="40" alt="Redis"/></a>
+
+  <!-- DevOps, Cloud & Infrastructure -->
+  <a href="https://docker.com"><img src="https://githubusercontent.com" width="40" alt="Docker"/></a>
+  <a href="https://linux.org"><img src="https://githubusercontent.com" width="40" alt="Linux"/></a>
+  <a href="https://nginx.org"><img src="https://githubusercontent.com" width="40" alt="Nginx"/></a>
+  <a href="https://vercel.com"><img src="https://vectorlogo.zone" width="40" alt="Vercel"/></a>
+  <a href="https://railway.app"><img src="https://vectorlogo.zone" width="40" alt="Railway"/></a>
+  <a href="https://google.com"><img src="https://vectorlogo.zone" width="40" alt="Firebase"/></a>
+
+  <!-- Tools & Version Control -->
+  <a href="https://git-scm.com"><img src="https://vectorlogo.zone" width="40" alt="Git"/></a>
+  <a href="https://postman.com"><img src="https://vectorlogo.zone" width="40" alt="Postman"/></a>
 </p>
+
 
 
 
