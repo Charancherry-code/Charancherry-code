@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **charancherry1129@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1_Xr6e_r8LOoTU-CT-vnZ75xhhkfeLqw3/view?usp=drivesdk
-
 - ⚡ Fun fact **I think semicolons ; have feelings too.**
 
 <h3 align="left">Connect with me:-</h3>
