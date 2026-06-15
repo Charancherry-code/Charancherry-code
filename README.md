@@ -3,24 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=Charancherry-code&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">A passionate tech enthusiast and AI explorer from India.</h3>
-
 ### 🚀 The Fast Summary
 A passionate tech enthusiast and AI builder from India, currently teaching models (and myself) how to think.
 
 ---
 
 ### 🛠️ Current Mission
-*   **Deep Diving**: Mastering Data Structures and Algorithms to build optimized systems.
+*   **Deep Diving**: Mastering Data Structures and Algorithms and System Design to build optimized systems.
 *   **AI Exploration**: Integrating LLMs, agents, and automation into modern web apps.
-
----
-
-### 💻 Let's Connect
-*   **Portfolio**: Check out my latest projects on [LinkedIn](https://www.linkedin.com/in/banoth-charan/).
-*   **Brainstorming**: Ask me about web development, AI integration, or complex data structures.
-*   **Direct Line**: Drop a message at [charancherry1129@gmail.com](mailto:charancherry1129@gmail.com).
-
+  
 ---
 
 ### 🤖 2026 Fun Facts
