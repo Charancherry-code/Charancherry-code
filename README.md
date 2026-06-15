@@ -10,10 +10,6 @@
 
 <p align="center">A passionate tech enthusiast and AI builder from India, currently teaching models (and myself) how to think.</p>
 
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=charancherry-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </p>
