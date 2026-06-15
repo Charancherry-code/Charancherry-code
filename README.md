@@ -1,10 +1,22 @@
 <h1 align="center">Hi 👋 I'm Banoth Charan</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer;AI+%26+LLM+Enthusiast;DSA+%26+System+Design+Grinder;Building+the+Future+with+Code" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charancherry-code&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">A passionate tech enthusiast and AI builder from India, currently teaching models (and myself) how to think.</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=charancherry-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</p>
 
 ---
 
@@ -98,8 +110,21 @@
 
 ---
 
-<h2 align="center">📈 GitHub Activity & Contributions</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charancherry-code&theme=dark&hide_border=true" alt="charancherry-code" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charancherry-code&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charancherry-code&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charancherry-code&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">📊 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charancherry-code&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
