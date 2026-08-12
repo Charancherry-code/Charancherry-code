@@ -16,7 +16,7 @@
 
 <p align="center">
   <b>Deep Diving</b>: Mastering Data Structures & Algorithms and System Design to build optimized systems.<br/>
-  <b>AI Exploration</b>: Integrating LLMs, agents, and automation into modern web apps.
+  <b>AI Exploration</b>: Integrating LLMs, agents, and automation into modern web apps....
 </p>
 
 ---
